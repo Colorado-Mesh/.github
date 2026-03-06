@@ -14,7 +14,7 @@ This repository serves as the central hub for our software development, document
 
 ## Getting Started
 Interested in joining the network or setting up your own node? Follow these steps to get started:
-1. Visit our Website: The most up-to-date information on how to join the network and get your equipment can be found on our official website: https://denvermesh.org/.
+1. Visit our Website: The most up-to-date information on how to join the network and get your equipment can be found on our official website: https://coloradomesh.org/.
 1. Explore the Code: If you're a developer, you can start by exploring the source code in this repository.
 1. Join the Community: We have a vibrant community of builders and enthusiasts. Check the website to find our communication channels and join the conversation.
 
