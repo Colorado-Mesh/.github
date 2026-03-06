@@ -1,8 +1,8 @@
-# Denver Mesh Network
+# Colorado Mesh Network
 Building a community-owned, decentralized, and resilient wireless network for Colorado.
 
 ## Project Overview
-Denver Mesh is a community-driven initiative dedicated to building a free and open wireless mesh network across Colorado. We believe in providing a resilient, decentralized alternative to traditional internet service providers, ensuring that our communities have access to a reliable communication network that is owned and operated by the people who use it, especially during emergencies.
+Colorado Mesh is a community-driven initiative dedicated to building a free and open wireless mesh network across Colorado. We believe in providing a resilient, decentralized alternative to traditional internet service providers, ensuring that our communities have access to a reliable communication network that is owned and operated by the people who use it, especially during emergencies.
 
 This repository serves as the central hub for our software development, documentation, and hardware configurations. Whether you're a seasoned developer, a networking enthusiast, or just curious about what we're building, you've come to the right place.
 
