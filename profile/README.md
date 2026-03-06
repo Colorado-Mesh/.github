@@ -25,4 +25,4 @@ We welcome contributions of all kinds! This is a community effort, and every bit
 * **Network Operations:** Help with physical hardware installation and network maintenance.
 * **Education:** Lead workshops and help teach others about the network.
 
-Thank you for being part of the Denver Mesh community!
+Thank you for being part of the Colorado Mesh community!
